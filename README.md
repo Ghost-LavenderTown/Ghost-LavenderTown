@@ -22,9 +22,13 @@
 </picture>
 
 
-Formações Concluidas:
+FORMAÇÕES CONCLUIDAS:
 
-[<img src="https://hermes.dio.me/tracks/aa71615b-e701-4cec-bb64-71ba6974c5fe.png" width="70">](https://web.dio.me/track/formacao-python-developer)[<img src="https://hermes.dio.me/tracks/bc454148-6e72-4047-95cc-d516706ae405.png" width="65">](https://web.dio.me/track/formacao-sql-db-specialist)[<img src="https://hermes.dio.me/tracks/da6041a9-80ef-409e-bd50-5e7be4dfadf6.png" width="65">](https://web.dio.me/track/formacao-java-developer)[<img src="https://hermes.dio.me/tracks/b19308ff-9431-48e9-9c7b-5cf01dd5ec24.png" width="65">](https://web.dio.me/track/formacao-machine-learning-specialist)
+[<img src="https://hermes.dio.me/tracks/aa71615b-e701-4cec-bb64-71ba6974c5fe.png" width="70">](https://web.dio.me/track/formacao-python-developer)
+[<img src="https://hermes.dio.me/tracks/55e7040f-775b-47e5-a8fb-69d002ca17a9.png" width="70">](https://web.dio.me/track/formacao-javascript-developer)
+[<img src="https://hermes.dio.me/tracks/da6041a9-80ef-409e-bd50-5e7be4dfadf6.png" width="65">](https://web.dio.me/track/formacao-java-developer)
+[<img src="https://hermes.dio.me/tracks/225effc3-a4c4-44e9-ba7f-53caaaffbcec.png" width="65">](https://web.dio.me/track/formacao-typescript-fullstack-developer)
+[<img src="https://hermes.dio.me/tracks/b19308ff-9431-48e9-9c7b-5cf01dd5ec24.png" width="65">](https://web.dio.me/track/formacao-machine-learning-specialist)
 
 ---
 ## 💻 Familiaridade com:
