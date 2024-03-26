@@ -1,19 +1,11 @@
-# 💻 DEVELOPER FULL STACK | SOFTWARE ENGINEER
+# 💻 DEVELOPER FULL STACK | SOFTWARE ENGINEER 🥷
 
 <p align="center">
   <!-- Typing SVG by DenverCoder1 - https://github.com/DenverCoder1/readme-typing-svg -->
   <a href="https://github.com/DenverCoder1/readme-typing-svg">
-    <img src="https://readme-typing-svg.demolab.com/?lines=Full-Stack%20Developer%20and%20Data%20Scientist;Experienced%20Machine Learning%2FBack-End%20;&font=Fira%20Code&center=true&width=540&height=45&color=f75c7e&vCenter=true&pause=1000&size=22" /></a>
+    <img src="https://readme-typing-svg.demolab.com/?lines=DEVELOPER%20FULL-STACK%20AND%20JAVA%20CHAPION;EXPERIENCED%20WEB DEVELOPER%2FFRONT-END%20;&font=Fira%20Code&center=true&width=540&height=45&color=f75c7e&vCenter=true&pause=1000&size=22" /></a>
 </p>
 </p>
-
-[![GitHub Workflow Status](https://img.shields.io/github/actions/workflow/status/platane/platane/main.yml?label=action&style=flat-square)](https://github.com/Platane/Platane/actions/workflows/main.yml)
-[![GitHub release](https://img.shields.io/github/release/platane/snk.svg?style=flat-square)](https://github.com/platane/snk/releases/latest)
-[![GitHub marketplace](https://img.shields.io/badge/marketplace-snake-blue?logo=github&style=flat-square)](https://github.com/marketplace/actions/generate-snake-game-from-github-contribution-grid)
-![type definitions](https://img.shields.io/npm/types/typescript?style=flat-square)
-![code style](https://img.shields.io/badge/code_style-prettier-ff69b4.svg?style=flat-square)
-
-
 <picture>
   <source
     media="(prefers-color-scheme: dark)"
