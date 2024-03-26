@@ -31,9 +31,7 @@
 [<img src="https://hermes.dio.me/tracks/68c81887-a1c2-440d-a7ea-7777bc10cd41.png" width="60">](https://web.dio.me/track/formacao-react-developer)
 
 ---
-## 💻 Familiaridade com:
-
-Linguagens de Programação e Marcação
+# 💻 ESPECIALISTA EM:
 
 [<img src="https://cdn.iconscout.com/icon/free/png-512/free-python-3521655-2945099.png?f=avif&w=256" width="50" title="Python">](https://www.python.org)
 [<img src="https://cdn.iconscout.com/icon/free/png-512/free-java-22-225997.png?f=avif&w=256" width="50" title="Java">](www.java.com)
