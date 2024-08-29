@@ -7,7 +7,7 @@
 </p>
 </p>
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Ghost-LavenderTown&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&order=2" height="150" alt="languages graph"  />
+  <img height="200" width="750" src="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1590760/extras/TACTICAL.gif?t=1724762458"  />
 </div>
 
 ###
@@ -36,9 +36,8 @@
 <img src="https://hermes.dio.me/tracks/da6041a9-80ef-409e-bd50-5e7be4dfadf6.png" width="65" />
 <img src="https://hermes.dio.me/tracks/225effc3-a4c4-44e9-ba7f-53caaaffbcec.png" width="65" />
 <img src="https://hermes.dio.me/tracks/68c81887-a1c2-440d-a7ea-7777bc10cd41.png" width="60" />
-
-</div>
 ---
+</div>
 <h1 align="center">💻 TECNOLOGIAS</h1>
 
 ###
