@@ -6,6 +6,11 @@
     <img src="https://readme-typing-svg.demolab.com/?lines=DEVELOPER%20FULL STACK%20AND%20GAME%20DEVELOPER;EXPERIENCED%20WEB DEVELOPER%2FFULL STACK%20;&font=Fira%20Code&center=true&width=540&height=45&color=f75c7e&vCenter=true&pause=1000&size=22" /></a>
 </p>
 </p>
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Ghost-LavenderTown&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&order=2" height="150" alt="languages graph"  />
+</div>
+
+###
 <picture>
   <source
     media="(prefers-color-scheme: dark)"
